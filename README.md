@@ -26,6 +26,6 @@ The Excel sheet **[Schubert_Winterreise_106_raw-data] (https://github.com/petal2
 
 The Excel sheet **[Schubert_Winterreise_106_data] (https://github.com/petal2020/petal_schubert_winterreise/blob/main/Schubert_Winterreise_106_data.xlsx)** contains tables summarizing song durations (dur), the percentage of each song of the full duration of the respective recording (perc) (**Worksheet 1: dur+perc**), the initial tempo of each song (tpo), the tempo range of each song (see (1)), and the tempo variability of each recording which is defined as the mean value of the 24 absolute values of temo range (**Worksheet 2: tpo+tpo-var+tpo-range**). The data of both worksheets are also provided as tsv-files [Schubert_Winterreise_106_dur-perc] (https://github.com/petal2020/petal_schubert_winterreise/blob/main/Schubert_Winterreise_106_dur-perc.tsv) and [Schubert_Winterreise_106_tpo-var] (https://github.com/petal2020/petal_schubert_winterreise/blob/main/Schubert_Winterreise_106_tpo-var.tsv).
 
-## (3) tempo table (64 recording)
+## (3) tempo table (64 recordings)
 
 In the additional tsv-file [Schubert_Winterreise_64_tpo.tsv](https://github.com/petal2020/petal_schubert_winterreise/blob/main/Schubert_Winterreise_64_tpo.tsv) a table of initial tempi for the subgroup of 64 recordings discussed in Sprau 2021 is provided.
